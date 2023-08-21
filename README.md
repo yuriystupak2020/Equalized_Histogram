@@ -3,4 +3,4 @@ Algorithm allows to convert night video and photos  almost in a day without usin
 
 
 
-![](/resources/photos/equalized_histogram.jpg)
+![GitHub Logo(/resources/photos/equalized_histogram.jpg)
