@@ -3,4 +3,4 @@ Algorithm allows to convert night video and photos  almost in a day without usin
 
 
 
-https://github.com/yuriystupak2020/Equalized_Histogram/blob/main/EqualizedHistogram1/resources/photos/equalized_histogram.jpg
+![](/resources/photos/equalized_histogram.jpg)
